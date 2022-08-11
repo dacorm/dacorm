@@ -13,6 +13,7 @@
 
 👨‍💻 Backend skills: 
 - NodeJs
+- NestJs
 - ExpressJs
 - MongoDB
 
