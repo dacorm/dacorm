@@ -1,7 +1,7 @@
 ### React/Typescript developer 👋
 
 
-👨‍💻 Frontend skills:
+👨‍💻 ##Frontend skills:
 - JavaScript/TypeScript
 - ReactJs
 - ReduxToolkit
@@ -11,13 +11,13 @@
 - HTML
 - Css/Scss/Styled-Components
 
-👨‍💻 Backend skills: 
+👨‍💻 ##Backend skills: 
 - NodeJs
 - NestJs
 - ExpressJs
 - MongoDB
 
-📩 Contacts: 
+📩 ##Contacts: 
 - telegram: @dacorm
 - vk: @dacorm
 - mail: stolen.youth@yandex.ru
