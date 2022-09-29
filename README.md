@@ -8,6 +8,8 @@
 - NextJs
 - Webpack/parcel
 - Git Workflows
+- Jest/ReactTestingLibrary
+- Storybook
 - HTML
 - Css/Scss/Styled-Components
 
