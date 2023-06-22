@@ -1,4 +1,4 @@
-### React/Typescript developer 👋
+### Senior React/Typescript developer 👋
 
 
 👨‍💻 **Frontend skills**:
