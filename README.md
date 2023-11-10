@@ -1,4 +1,4 @@
-### Senior React/Typescript developer 👋
+### React/Typescript developer 👋
 
 
 👨‍💻 **Frontend skills**:
@@ -12,6 +12,7 @@
 - Storybook
 - HTML
 - Css/Scss/Styled-Components
+- Clean/FSD Architecture
 
 👨‍💻 **Backend skills**: 
 - NodeJs
